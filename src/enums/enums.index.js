@@ -1,0 +1,1 @@
+exports.bookEnums = require('./bookEnums');
