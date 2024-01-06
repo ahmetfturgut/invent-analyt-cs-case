@@ -1,9 +1,9 @@
 {
-	"name": "nodejs-restapi",
-	"description": "Boilerplate for API backends with Node.js and Express.",
+	"name": "nodejs-postgresql-sequelize",
+	"description": "",
 	"version": "1.0.0",
 	"author": "Ahmet Faruk TURGUT <ahmetfturgut@gmail.com>",
-	"repository": "https://github.com/ahmetfturgut/nodejs-server.git",
+	"repository": "",
 	"license": "MIT",
 	"main": "server/server.js",
 	"engines": {
